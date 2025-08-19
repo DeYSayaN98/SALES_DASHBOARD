@@ -42,7 +42,7 @@ Select all option for full-year analysis
 
 MadhavEcommerceDashboard.pbix → Power BI project file
 
-screenshot.png → Dashboard preview
+Madhav_Sales_Dashboard.jgp → Dashboard preview
 
 🛠️ Tools & Technologies
 
